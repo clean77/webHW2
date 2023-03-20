@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;  /* 去掉網頁主體的預設外邊距 */
+}
+.tv {
+    position: relative;
+    left: 280px;
+}
+h1 {
+    position: relative;
+    top: -50px;
+    left: 400px;
+    color: #8C8C8C;
+}
+h2 {
+    position: relative;
+    top: -40px;
+    left: 400px;
+    color: #8C8C8C; /*改更深的顏色*/
+}
+.wood {
+    position: relative;
+    bottom: 150px;
+    left: 775px;
+}
