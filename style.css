@@ -3,6 +3,8 @@ html, body {
 }
 .tv {
     position: relative;
+    width: 650px;
+    height: auto;
     left: 280px;
 }
 h1 {
@@ -19,6 +21,8 @@ h2 {
 }
 .wood {
     position: relative;
+    width: 120px;
+    height: auto;
     bottom: 150px;
     left: 775px;
 }
